@@ -1,6 +1,8 @@
 ## Enterprise Resource Planning System (ERP)
 Enterprise Resource Planning (ERP) is a type of software used by a business to plan and manage daily activities such as supply chain, accounting and sales, also it can be used to automate and simplify individual activities across the business.
 
+This project was built with the latest software technologies using Python & Javascript, and was built on the basis of extensive scientific research as it was part of a Mohamed Elbagoury master's degree.
+
 ## Installation
 ### Python
 ERP requires Python 3.8 or later to run. Use your package manager to download and install Python 3 on your machine if it is not already done
