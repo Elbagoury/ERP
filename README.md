@@ -51,7 +51,7 @@ Once all dependencies are set up, ERP can be launched by running [erp-bin](erp-b
 
 GNU/General Public License (see [license.txt](license.txt))
 
-The ERPNext code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
+The ERP code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Mohamed Elbagoury and Contributors.
 
 By contributing to ERP, you agree that your contributions will be licensed under its GNU General Public License (v3).
 
